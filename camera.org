@@ -1,4 +1,4 @@
-* camera
+* camera  [[https://zhuanlan.zhihu.com/p/461783794][相机模型和畸变模型 - 知乎]]
 ** rectilinear projection model
 ** unified projection model/MEI Model
 * radial-tangential distortion 

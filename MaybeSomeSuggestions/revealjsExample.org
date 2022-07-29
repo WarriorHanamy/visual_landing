@@ -1,0 +1,8 @@
+* Node.js
+- Node.js is based on Javascript
+- popular among front-end programmers
+ 
+* npm
+- npm is a packages manager for node.js
+- like pip for python, apt for ubuntu, etc.
+  
